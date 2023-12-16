@@ -50,4 +50,4 @@ KMeans clustering based 88.19% accurate (but recording device dependent) model.
 
 <br><br>
 
-** *It is important to note that in order to execute the files, some paths might to be change according to the file location.*
+** *It is important to note that in order to execute the files, some paths might to be changed according to the file location.*
