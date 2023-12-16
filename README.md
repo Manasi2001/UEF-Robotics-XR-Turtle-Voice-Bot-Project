@@ -48,4 +48,6 @@ Dataset of embeddings from different speakers and Manasi's audios. Whenever a ne
 
 KMeans clustering based 88.19% accurate (but recording device dependent) model.
 
-** It is important to note that in order to execute the files, some paths might to be change according to the file location.
+<br><br>
+
+** *It is important to note that in order to execute the files, some paths might to be change according to the file location.*
